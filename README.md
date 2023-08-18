@@ -10,3 +10,5 @@ Work in Progress -- 18 aout 2023 --
 3 - Inkscape - Front panel Design
 
 4 - GERBER - IC and Front panel Boards
+
+![20230815_224720](https://github.com/dubhalley/Mod1_ActifMult/assets/5200123/4acdb4c0-698e-4afd-b46b-5acc3aeb0a2e)
